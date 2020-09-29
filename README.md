@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am student developer. ~~Maybe
+I am student developer. ~~Maybe~~
 
 I Love GANGG❤️ 
 ## Languages
