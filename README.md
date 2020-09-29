@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am a bored student developer.
+I am student developer. ~~Maybe
 
 I Love GANGG❤️ 
 ## Languages
