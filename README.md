@@ -15,7 +15,6 @@ I Love GANGG❤️
 > Learning
 > - Kotlin
 > - Java
-> - C, C++
 
 ## Stats
 
