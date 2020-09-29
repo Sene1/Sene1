@@ -6,6 +6,7 @@
 
 I am a bored student developer.
 
+I Love GANGG❤️ 
 ## Languages
 
 > Capable of
