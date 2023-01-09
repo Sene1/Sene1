@@ -2,14 +2,11 @@
 
 ## Introduction
 
-I am student developer. ~~Maybe~~
+I am Hungry 🤪
 
-I Love GANGG❤️ 
 ## Languages
 
-> Capable of
-> - Python
->
 > Learning
 > - Kotlin
 > - Java
+> - Python
